@@ -361,3 +361,7 @@ p.faq {
 p.answer {
   font-size: 20px; color: red;
 }
+
+.custom_nav .navbar.navbar-fixed-top .navbar-inner{
+    background: rgba(255, 255, 255, 0.0);
+}
